@@ -16,3 +16,7 @@ Use `flutter run` to fetch all the dependencies. Works best on Pixel 6 API 33.
 </section>
 https://youtube.com/shorts/Kcj6FVWq5T0
 </div>
+
+## Credits
+
+This was my final submission for a summer course I took at LNU.
