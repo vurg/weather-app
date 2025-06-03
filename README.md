@@ -1,5 +1,5 @@
-# Weather App - Mobile Development with Flutter
-*Coursework from Linneaus University (App Development with Flutter)*.
+# Weather App - Mobile App Development with Flutter
+*Coursework from Linneaus University*.
 
 ## Getting Started
 
